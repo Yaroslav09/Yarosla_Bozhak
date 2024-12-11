@@ -25,7 +25,7 @@ const Yaroslav Bozhak = {
   tech: {
     backend: ["Ruby", "Ruby on Rails", "Node.js"],
     frontend: ["React.js", "Bootstrap", "Tailwind CSS", "HTML", "CSS", "SASS"],
-    database: ["PostgreSQL","MySQL"]
+    database: ["PostgreSQL","MySQL"],
     cloud: ["Docker", "Linux"],
   },
 
