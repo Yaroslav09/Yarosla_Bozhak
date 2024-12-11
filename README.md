@@ -7,11 +7,7 @@
   </a>
   <a href="https://yaroslav09.github.io/Yaroslav-Bozhak-Portfolio/#/Yaroslav-Bozhak-Portfolio/">
     <img src="https://img.shields.io/badge/Website-%23171717.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-  <a href="https://github.com/Yaroslav09">
-    <img src="https://komarev.com/ghpvc/?username=lohitkolluri&style=for-the-badge&color=brightgreen" alt="Profile Views">
-  </a>  
-  
+  </a>   
 </div>
 
 <h2 align="left">
