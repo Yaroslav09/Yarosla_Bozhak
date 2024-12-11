@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Yaroslav Bozhak</h1>
-  
+  <h2>I'm Full Stack Developer | Ruby | RoR | JavaScript| React ...</h2>
   <a href="https://www.linkedin.com/in/yaroslav-bozhak/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
