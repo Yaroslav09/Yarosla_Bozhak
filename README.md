@@ -24,7 +24,7 @@ const Yaroslav Bozhak = {
   interest: ["Full Stack Development", "Front End Development", 'Cybersecurity'],
   tech: {
     backend: ["Ruby", "Ruby on Rails", "Node.js"],
-    frontend: ["React.js", "Bootstrap", "Tailwind CSS"],
+    frontend: ["React.js", "Bootstrap", "Tailwind CSS", "HTML", "CSS", "SASS"],
     database: ["PostgreSQL","MySQL"]
     cloud: ["Docker", "Linux"],
   },
